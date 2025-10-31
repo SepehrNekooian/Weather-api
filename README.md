@@ -1,9 +1,6 @@
 ## 💻 Weather-api-Javascript
 
 
-<img width="1024" height="554" alt="Weather" src="https://github.com/user-attachments/assets/c1c245d8-0723-4dd1-9817-e31aec50f63e" />
-
-
 
 https://github.com/user-attachments/assets/39238f87-bd70-4c94-a007-6ffcba95816b
 
