@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
 
-## 📅 Created On: October 23, 2025
+## 📅 Created On: October 31, 2025
 
-## 💻Technologies Used: React, Tailwindcss, JavaScript, Css, Html
+## 💻Technologies Used: JavaScript, Css, Html
 
 ## 📬 How to Reach Me:
 
